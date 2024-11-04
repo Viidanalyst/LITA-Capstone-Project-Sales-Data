@@ -37,7 +37,7 @@ I used Excel Functions and Pivot Tables to carry out some of the following;
 - To know which goods was more dominant in the regions.
 - To also Sum the Price for each products and to Know the Quantity of products sold in each regions.
 
-  ![Project Lita - Excel 03-Nov-24 11_19_30 PM](https://github.com/user-attachments/assets/5d8cc227-aaeb-407a-a6ec-19bbe84c0104)
+![SD1](https://github.com/user-attachments/assets/828525d3-557e-4a35-9a4c-2a41bd35917e)
 
 -  Excel Functions was carried out to know  average sales per product and total revenue by region.
 -  I also wanted to know the Maximum and Minimum sales made.
@@ -102,6 +102,7 @@ I visualized the data by showing key trends in the company and to also derive in
 
 ![Project LITA 02-Nov-24 5_46_16 PM](https://github.com/user-attachments/assets/3180056d-3382-4c7e-97b7-9e08b703f633)
 
-#### Insights
+#### Insights Drawn
+1. 
 
 
