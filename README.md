@@ -1,2 +1,6 @@
 # LITA-Capstone-Project-Sales-Data
-This Repository contains the Sales Data capstone project
+---
+## PROJECT TITLE: SALES DATA
+---
+## PROJECT OVERVIEW
+
