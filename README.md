@@ -25,9 +25,9 @@ This segment explains the key variables that were used in the analysis;
 ---
 ## TOOLS USED FOR ANALYSIS
 For this project, i had to make use of Three(3) analytical tool. They are;
--  Microsoft Excel [(https://www.microsoft.com/en-us/microsoft-365)] (Download here)
--  SQL Server [(https://www.microsoft.com/en-us/sql-server/sql-server-downloads)] (Download here)
--  Microsoft Power BI [(https://www.microsoft.com/en-us/power-bi)] (Downoad here)
+-  Microsoft Excel [Download Here](https://www.microsoft.com/en-us/microsoft-365) 
+-  SQL Server [Download here](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
+-  Microsoft Power BI [Download Here](https://www.microsoft.com/en-us/power-bi) 
 --- 
 ## DATA PREPARATIONS
 My first take on this dataset when i accessed it was to check for duplicates using Excel. I removed all the duplicates then also checked for any empty cells which there was none. After cleaning i carried out my analysis and also transferred the cleaned data to Sql and Power BI for further analysis
