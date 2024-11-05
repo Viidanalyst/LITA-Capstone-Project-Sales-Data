@@ -103,6 +103,15 @@ I visualized the data by showing key trends in the company and to also derive in
 ![Project LITA 02-Nov-24 5_46_16 PM](https://github.com/user-attachments/assets/3180056d-3382-4c7e-97b7-9e08b703f633)
 
 #### Insights Drawn
-1. 
+1. The total sales generated for the trading year is 2,102,035, with a count of 7 products. The total quantity of products sold sums up to 68,497.
+2. The Shoes product generated the most sales with a total of 613,440, followed by the Shirt product with a total of 486,080. The Socks product made the lowest sales with a total of 180,800. This divulges that more quantity of shoes should be produced, since it is the most sought after.
+3. The Southern region generated the highest sales with a total of 928,020, the West region generated the least sales with a total of 300,420. It should be looked into on why sales is not booming in the Western region.
+4. In the Product category, Hats has the most quantity of goods purchased with a total of 15,963. This implies that the hat product is the most sought after, even if it did not generated the most revenue due to its price.
+5. The Southern Region has the highest quantity of goods purchased with a total of 24,306 and a 35% total. This explains why they have the most revenue generated.
+6. The Price of Shoes in the product category tops the chart when summed up with a total of 69,555. This explains why Shoes generated the most revenue even though it did not have the most quantity purchased.
+7. The Month of Febraury generated the most sales with a total of
+---
+#### DASHBOARD WITH APPLIED SLICER
+I applied a slicer which contains the months order were made. The applied slicer shows that The most Sales were made in the Month of February with a total of 546,300. 
 
 
