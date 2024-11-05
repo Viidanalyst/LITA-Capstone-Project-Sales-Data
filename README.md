@@ -107,7 +107,8 @@ Having Sum(Quantity)=0
 ### DATA VISUALIZATION WITH POWER BI
 I visualized the data by showing key trends in the company and to also derive insights from it.
 
-![Project LITA 02-Nov-24 5_46_16 PM](https://github.com/user-attachments/assets/3180056d-3382-4c7e-97b7-9e08b703f633)
+![Project LITA 02-Nov-24 6_02_47 PM](https://github.com/user-attachments/assets/6fab23e6-8b31-4ee8-ad52-e965a991d6ba)
+
 
 #### Insights Drawn
 1. The total sales generated for the trading year is 2,102,035, with a count of 7 products. The total quantity of products sold sums up to 68,497.
@@ -122,8 +123,13 @@ I visualized the data by showing key trends in the company and to also derive in
 I applied a slicer which contains the Months order were made. I decided to show the Month with the Highest Revenue and the Month with the Lowest Revenue. 
 ##### DASHBOARD FOR THE MONTH OF FEBRUARY
 
+![Project LITA 05-Nov-24 12_18_30 PM](https://github.com/user-attachments/assets/0ff6b66b-3d01-498d-9d13-6c6be05680e9)
 
 ##### Insights
 The Month of February is shown in the applied slicer above. It shows that The most Sales were made in the Month of February with a total of 546,300. This Revenue was generated through the Sales of Shoes all of the sales were made in the southern Region with a quantity of 9,930 goods sold.
+
+##### DASHBOARD FOR THE MONTH OF SEPTEMBER
+
+![Project LITA 05-Nov-24 12_11_29 PM](https://github.com/user-attachments/assets/0fd8c8d8-27f5-403e-9dfe-f8040fcbcd23)
 
 
