@@ -138,3 +138,8 @@ The Month of September is shown in the applied slicer above. It shows that the L
 
 ---
 ## GENERAL CONCLUSIONS
+The analysis of this dataset has shown the various trends and pattern of sales in this company as it was the aim. In order to generate more sales in the coming year some solutions will be profered;
+
+- There should be a customer awareness to know what the customers want to see in the market. For Instance, we can see that the sales of shooes generated the most revenue so, shoes should be produced in higher quantity whilst maintaining its price an quality.
+- A proper research should be conducted in the Western Region where low sales were made to know why i was so. Initiate customers in a conversation to know what products they would love to see in their region, that way the company will know what to send to that region.
+- Since Socks made the lowest sales, the quantity to be produced in the coming year should be minmal so as to not run into a loss if it is not purchased by customers.
