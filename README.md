@@ -119,6 +119,11 @@ I visualized the data by showing key trends in the company and to also derive in
 7. The Month of Febraury generated the most sales with a total of 546,300, followed by the Month of July with a total of 275,280. The least sales was generated in the Month of September with a toal of 34,790.
 ---
 #### DASHBOARD WITH APPLIED SLICER
-I applied a slicer which contains the Months order were made. The Month of February is shown in the applied slicer it shows that The most Sales were made in the Month of February with a total of 546,300. This Revenue was generated through the Sales of Shoes all of the sales were made in the southern Region with a quantity of 9,930 goods sold.
+I applied a slicer which contains the Months order were made. I decided to show the Month with the Highest Revenue and the Month with the Lowest Revenue. 
+##### DASHBOARD FOR THE MONTH OF FEBRUARY
+
+
+##### Insights
+The Month of February is shown in the applied slicer above. It shows that The most Sales were made in the Month of February with a total of 546,300. This Revenue was generated through the Sales of Shoes all of the sales were made in the southern Region with a quantity of 9,930 goods sold.
 
 
