@@ -90,11 +90,18 @@ Order by 2 desc
 ```
 - To calculate the percentage of total sales contributed by each region.
   ```
-
+  Select Region, Sum(Sales)/Sum(quantity*UnitPrice)*0.1 As PercentageOfTotalSales
+  From [dbo].[Sales Data]
+  Group by Region
+  Order by PercentageOfTotalSales
   ```
 - To identify products with no sales in the last quarter.
 ```
-
+Select Product, Sum(Quantity) As Sales
+from [dbo].[Sales Data]
+Where Month(OrderDate) Between 10 and 12
+Group by Product
+Having Sum(Quantity)=0
 ```
 ---
 ### DATA VISUALIZATION WITH POWER BI
@@ -109,7 +116,7 @@ I visualized the data by showing key trends in the company and to also derive in
 4. In the Product category, Hats has the most quantity of goods purchased with a total of 15,963. This implies that the hat product is the most sought after, even if it did not generated the most revenue due to its price.
 5. The Southern Region has the highest quantity of goods purchased with a total of 24,306 and a 35% total. This explains why they have the most revenue generated.
 6. The Price of Shoes in the product category tops the chart when summed up with a total of 69,555. This explains why Shoes generated the most revenue even though it did not have the most quantity purchased.
-7. The Month of Febraury generated the most sales with a total of
+7. The Month of Febraury generated the most sales with a total of 546,300, followed by the Month of July
 ---
 #### DASHBOARD WITH APPLIED SLICER
 I applied a slicer which contains the months order were made. The applied slicer shows that The most Sales were made in the Month of February with a total of 546,300. 
